@@ -101,7 +101,7 @@ th {
 }
 
 img {
-  max-width:20%;
+  max-width:100%;
 }
 
 kbd {
@@ -208,6 +208,13 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
 }
 
 @media print, screen and (max-width: 960px) {
