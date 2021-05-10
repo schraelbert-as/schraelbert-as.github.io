@@ -222,6 +222,12 @@ footer {
   width: 20%;
 }
 
+.center {
+  margin: auto;
+  width: 100%;
+  padding: 0;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.spreadout {
