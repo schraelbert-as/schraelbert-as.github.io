@@ -1,5 +1,3 @@
 ---
 layout: schraelbertas
 ---
-
-# Schraelbert AS
